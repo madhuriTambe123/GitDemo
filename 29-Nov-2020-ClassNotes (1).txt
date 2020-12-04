@@ -1,0 +1,37 @@
+Yesterday's session : DC module details
+---------------------------------------------
+
+-> DC module is used to collect information from citizen which is required to apply for a plan
+
+> In DC module several screens are available to collect information from the citizen
+
+-> Every Screen data will be stored into DB table
+
+-> In DC module we can see below types of screens in Realtime
+
+	1) Create Case
+	2) Plan Selection
+	3) Income Details
+	4) Property Details
+	5) Children Details
+	6) Family Details
+	7) Relationships Details
+	8) Educational Details
+	9) Health Details
+	10) TaxPayment Details	etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
